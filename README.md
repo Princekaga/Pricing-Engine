@@ -1,9 +1,6 @@
-# Pricing-Engine
 # Algorithmic Option Pricing: Bridging Stochastic Calculus & Fourier Transforms
 
 > A quantitative finance pricing engine implementing the **Carr-Madan (1999)** methodology to price European Call Options under the **Variance Gamma stochastic process**, benchmarked against the analytical **Black-Scholes-Merton** model — using the Fast Fourier Transform for O(N log N) computational efficiency.
-
-
 ## 📌 Motivation
 
 Traditional option pricing (Black-Scholes-Merton) assumes constant volatility and normally distributed returns — assumptions that break down in real financial markets, which exhibit **skewness**, **excess kurtosis**, and **volatility smiles**.
