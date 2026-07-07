@@ -186,6 +186,3 @@ This project followed a structured 10-week curriculum:
 B.Tech, IIT Kanpur
 📧 kprince24@iitk.ac.in
 
----
-
-*This project was conducted under Stamatics, IIT Kanpur as part of the Summer Project Program.*
